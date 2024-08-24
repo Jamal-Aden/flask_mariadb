@@ -1,0 +1,50 @@
+region_code,code,name,capital_city,hasc,kbs,area
+30,1,Mombasa,Mombasa City,MM,MBA,219
+30,2,Kwale,Kwale,KW,KLE,8270
+30,3,Kilifi,Kilifi,KF,KLF,12610
+30,4,Tana River,Hola,TR,TAN,38437
+30,5,Lamu,Lamu,LM,LAU,6273
+30,6,Taita Taveta,Voi,TT,TVT,17084
+50,7,Garissa,Garissa,GA,GSA,44175
+50,8,Wajir,Wajir,WJ,WJR,56686
+50,9,Mandera,Mandera,MD,MDA,25991
+40,10,Marsabit,Marsabit,MB,MAR,70961
+40,11,Isiolo,Isiolo,IS,ISL,25336
+40,12,Meru,Meru,ME,MRU,6933
+40,13,Tharaka Nithi,Chuka,NT,TNT,2639
+40,14,Embu,Embu,EB,EBU,2818
+40,15,Kitui,Kitui,KT,KTU,30497
+40,16,Machakos,Machakos,MC,MCS,6208
+40,17,Makueni,Wote,MK,MUE,8009
+20,18,Nyandarua,Ol Kalou,NN,NDR,3245
+20,19,Nyeri,Nyeri,NI,NER,3337
+20,20,Kirinyaga,Kerugoya/Kutus,KY,KIR,1479
+20,21,Muranga,Muranga,MU,MRA,2559
+20,22,Kiambu,Kiambu,KB,KBU,2543
+70,23,Turkana,Lodwar,TU,TUR,68680
+70,24,West Pokot,Kapenguria,WP,PKT,9169
+70,25,Samburu,Maralal,SA,SBM,21022
+70,26,Trans Nzoia,Kitale,TN,TRN,2496
+70,27,Uasin Gishu,Eldoret,UG,USG,3345
+70,28,Elgeyo Marakwet,Iten,EM,EGM,3030
+70,29,Nandi,Kapsabet,ND,NDI,2884
+70,30,Baringo,Kabarnet,BA,BAR,11015
+70,31,Laikipia,Rumuruti,LK,LKP,9462
+70,32,Nakuru,Nakuru,NK,NKU,7495
+70,33,Narok,Narok,NR,NRK,17933
+70,34,Kajiado,Kajiado,KJ,KAJ,21901
+70,35,Kericho,Kericho,KR,KCO,2158
+70,36,Bomet,Bomet,BO,BMT,2792
+80,37,Kakamega,Kakamega,KK,KAK,3018
+80,38,Vihiga,Vihiga,VI,VHG,564
+80,39,Bungoma,Bungoma,BN,BGM,3032
+80,40,Busia,Busia,BS,BSA,1695
+60,41,Siaya,Siaya,SI,SYA,2530
+60,42,Kisumu,Kisumu,KU,KIS,2086
+60,43,Homa Bay,Homa Bay,HB,HMA,3183
+60,44,Migori,Migori,MG,MIG,2596
+60,45,Kisii,Kisii,KI,KSI,1318
+60,46,Nyamira,Nyamira,NM,NYI,899
+00,47,Nairobi,Nairobi City,NB,NBO,695
+99,48,DIASPORA,xxxx,DP,DIP,0
+99,49,PRISONS,xxxx,PR,PRI,0

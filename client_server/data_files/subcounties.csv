@@ -1,0 +1,391 @@
+code,county_code,name
+101,1,changamwe
+102,1,jomvu
+103,1,kisauni
+104,1,likoni
+105,1,mvita
+106,1,nyali
+201,2,kinango
+202,2,lunga lunga
+203,2,matuga
+204,2,msambweni
+205,2,kwale
+206,2,lungalunga
+207,2,samburu kwale
+301,3,chonyi
+302,3,ganze
+303,3,kaloleni
+304,3,kauma
+305,3,kilifi north
+306,3,kilifi south
+307,3,magarini
+308,3,malindi
+309,3,rabai
+310,3,bahari kilifi
+401,4,tana delta
+402,4,tana north
+403,4,tana river
+404,4,buratana north
+501,5,lamu east
+502,5,lamu west
+601,6,mwatate
+602,6,taita
+603,6,taveta
+604,6,voi
+605,6,wundanyi taita
+701,7,balambala
+702,7,dadaab
+703,7,fafi
+704,7,garissa
+705,7,hulugho
+706,7,ijara
+707,7,lagdera
+708,7,liara
+801,8,buna
+802,8,eldas
+803,8,habaswein
+804,8,tarbaj
+805,8,wajir east
+806,8,wajir north
+807,8,wajir south
+808,8,wajir west
+901,9,mandera west
+902,9,banisa
+904,9,lafey
+905,9,mandera central
+906,9,mandera east
+907,9,mandera north
+908,9,kutulo
+1001,10,loiyangalani
+1002,10,marsabit central
+1003,10,marsabit north
+1004,10,marsabit south
+1005,10,moyale
+1006,10,north horr
+1007,10,sololo
+1008,10,marsabit
+1009,10,horr north
+1010,10,chalbi
+1011,10,marsabit south laisamis
+1101,11,garbatulla
+1102,11,isiolo
+1103,11,merti
+1104,11,garbatula
+1201,12,buuri east
+1202,12,buuri west
+1203,12,igembe central
+1204,12,igembe north
+1205,12,igembe south
+1206,12,imenti north
+1207,12,imenti south
+1208,12,meru central
+1209,12,tigania central
+1210,12,tigania east
+1211,12,tigania west
+1212,12,buuri
+1213,12,mt kenya forest
+1214,12,meru national park
+1302,13,maara
+1303,13,meru south
+1304,13,tharaka north
+1305,13,tharaka south
+1306,13,igambangombe
+1307,13,mt kenya forest
+1401,14,embu east
+1402,14,embu north
+1403,14,embu west
+1404,14,mbeere south
+1405,14,mbeere north
+1406,14,mt kenya forest
+1501,15,ikutha
+1502,15,katulani
+1503,15,kisasi
+1504,15,kitui central
+1505,15,kitui west
+1506,15,kyuso
+1507,15,lower yatta
+1508,15,matinyani
+1509,15,migwani
+1510,15,mumoni
+1511,15,mutitu
+1512,15,mutitu north
+1513,15,mutomo
+1514,15,mutomo
+1515,15,mwingi central
+1516,15,mwingi east
+1517,15,nzambani
+1518,15,thagicu
+1519,15,tseikuru
+1520,15,mwingi west
+1521,15,mutito
+1601,16,athi river
+1602,16,kalama
+1603,16,kangundo
+1604,16,kathiani
+1605,16,machakos
+1606,16,masinga
+1607,16,matungulu
+1608,16,mwala
+1609,16,yatta
+1610,16,machakos
+1701,17,kathonzweni
+1702,17,kibwezi
+1703,17,kilungu
+1704,17,makindu
+1705,17,makueni
+1706,17,mbooni east
+1707,17,mbooni west
+1708,17,mukaa
+1709,17,nzaui
+1801,18,kinangop
+1802,18,nyandarua south
+1803,18,mirangine
+1804,18,kipipiri
+1805,18,nyandarua central
+1806,18,nyandarua west
+1807,18,nyandarua north
+1808,18,aberdare national park
+1901,19,tetu
+1902,19,kieni east
+1903,19,kieni west
+1904,19,mathira east
+1905,19,mathira west
+1906,19,nyeri south
+1908,19,nyeri central
+1909,19,mukurwe ini
+1910,19,aberdare forest
+1911,19,mt kenya forest
+2001,20,kirinyaga central
+2002,20,kirinyaga east
+2003,20,kirinyaga west
+2004,20,mwea east
+2005,20,mwea west
+2006,20,kiinyaga west
+2007,20,mt kenya forest
+2102,21,kangema
+2103,21,mathioya
+2104,21,kahuro
+2106,21,gatanga
+2107,21,kigumo
+2108,21,kandara
+2109,21,muranga east
+2110,21,muranga south
+2111,21,aberdare forest
+2112,21,muranga south
+2201,22,gatundu north
+2202,22,gatundu south
+2203,22,githunguri
+2204,22,juja
+2205,22,kabete
+2206,22,kiambaa
+2207,22,kiambu
+2208,22,kikuyu
+2209,22,lari
+2210,22,limuru
+2211,22,ruiru
+2212,22,thika east
+2213,22,thika west
+2301,23,kibish
+2302,23,loima
+2303,23,turkana central
+2304,23,turkana east
+2305,23,turkana north
+2306,23,turkana south
+2307,23,turkana west
+2401,24,kipkomo
+2402,24,pokot central
+2403,24,pokot north
+2404,24,pokot south
+2405,24,west pokot
+2501,25,samburu central
+2502,25,samburu east
+2503,25,samburu north
+2601,26,trans nzoia west
+2602,26,trans nzoia east
+2603,26,kwanza
+2604,26,endebess
+2605,26,kiminini
+2606,26,endebes
+2607,26,transzoia east
+2608,26,transzoia west
+2701,27,ainabkoi
+2702,27,kapseret
+2703,27,kesses
+2704,27,moiben
+2705,27,soy
+2706,27,turbo
+2707,27,wareng
+2708,27,eldoret west
+2709,27,eldoret east
+2801,28,keiyo north
+2802,28,keiyo south
+2803,28,marakwet east
+2804,28,marakwet west
+2805,28,keiyo
+2901,29,chesumei
+2902,29,nandi central
+2903,29,nandi east
+2904,29,nandi north
+2905,29,nandi south
+2906,29,tinderet
+3001,30,baringo central
+3002,30,baringo north
+3003,30,east pokot
+3004,30,koibatek
+3005,30,marigat
+3006,30,mogotio
+3007,30,tiaty east
+3101,31,laikipia central
+3102,31,laikipia east
+3103,31,laikipia north
+3104,31,laikipia west
+3105,31,nyahururu
+3201,32,gilgil
+3202,32,kuresoi north
+3203,32,kuresoi south
+3204,32,molo
+3205,32,naivasha
+3206,32,nakuru east
+3207,32,nakuru north
+3208,32,nakuru west
+3209,32,njoro
+3210,32,rongai
+3211,32,subukia
+3212,32,kuresoi 
+3213,32,nakuru
+3301,33,narok east
+3302,33,narok north
+3303,33,narok south
+3304,33,narok west
+3305,33,trans mara east
+3306,33,trans mara west
+3307,33,transmara east
+3308,33,transmara west
+3309,33,mau forest
+3401,34,isinya
+3402,34,kajiado central
+3403,34,kajiado north
+3404,34,kajiado west
+3405,34,loitokitok
+3406,34,mashuuru
+3501,35,belgut
+3502,35,bureti
+3503,35,kericho east
+3504,35,kipkelion
+3505,35,londiani
+3506,35,soin sigowet
+3507,35,kipkelion 
+3508,35,kericho
+3509,35,sigowei soin
+3601,36,bomet east
+3602,36,chepalungu
+3603,36,konoin
+3604,36,sotik
+3605,36,bomet central
+3606,36,bomet
+3701,37,butere
+3702,37,kakamega central
+3703,37,kakamega east
+3704,37,kakamega north
+3705,37,kakamega south
+3706,37,khwisero
+3707,37,likuyani
+3708,37,lugari
+3709,37,matete
+3710,37,matungu
+3711,37,mumias east
+3712,37,mumias west
+3713,37,navakholo
+3714,37,mumias 
+3801,38,emuhaya
+3802,38,vihiga
+3803,38,sabatia
+3804,38,luanda
+3805,38,hamisi
+3806,38,kakamega forest
+3901,39,bumula
+3902,39,bungoma central
+3903,39,bungoma east
+3904,39,bungoma north
+3905,39,bungoma south
+3906,39,cheptais
+3907,39,kimilili
+3909,39,bungoma west
+3910,39,tongaren
+3911,39,webuye west
+3912,39,mt elgon forest
+3913,39,mt elgon
+3914,39,kimilili 39
+4001,40,bunyala
+4002,40,busia
+4003,40,butula
+4004,40,nambale
+4005,40,samia
+4006,40,teso north
+4007,40,teso south
+4101,41,siaya
+4102,41,gem
+4103,41,ugenya
+4104,41,ugunja
+4105,41,bondo
+4106,41,rarieda
+4201,42,kisumu east
+4202,42,kisumu central
+4203,42,kisumu west
+4204,42,seme
+4205,42,muhoroni
+4206,42,nyando
+4207,42,nyakach
+4301,43,homa bay
+4302,43,ndhiwa
+4303,43,rachuonyo north
+4304,43,rachuonyo east
+4305,43,rachuonyo south
+4306,43,rangwe
+4307,43,suba north
+4308,43,suba south
+4309,43,mbita
+4310,43,suba
+4401,44,awendo
+4402,44,kuria east
+4403,44,kuria west
+4404,44,nyatike
+4405,44,rongo
+4406,44,suna east
+4407,44,suna west
+4408,44,uriri
+4409,44,migori
+4501,45,etago
+4502,45,gucha
+4503,45,gucha south
+4504,45,kenyenya
+4505,45,kisii central
+4506,45,kisii south
+4507,45,kitutu central
+4508,45,marani
+4509,45,masaba south
+4510,45,masaba south
+4511,45,nyamache
+4512,45,sameta
+4601,46,borabu
+4602,46,manga
+4603,46,masaba north
+4604,46,nyamira north
+4605,46,nyamira south
+4701,47, Westlands
+4702,47, Dagoretti North
+4703,47, Dagoretti South
+4704,47, Lang'ata
+4705,47, Kibra
+4706,47, Roysambu
+4707,47, Kasarani
+4708,47, Ruaraka
+4709,47, Embakasi North
+4710,47, Embakasi South
+4711,47, Embakasi Central
+4712,47, Embakasi East
+4713,47, Embakasi West
+4714,47, Makadara
+4715,47, Kamukunji
+4716,47, Starehe
+4717,47, Mathare
